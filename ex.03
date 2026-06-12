@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ATIVIDADE 3 — Botão Medroso</title>
+    </head>
+<body>
+    <h1>ATIVIDADE 3 — Botão Medroso</h1>
+        <button onmouseover="exibirMensagem()">
+            Botão
+        </button>
+<script>
+    function exibirMensagem(){
+        alert("ola, ser")
+    }
+</script>
+</body>
+</html>
