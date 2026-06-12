@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ATIVIDADE 4 — Botão Triste</title>
+    </head>
+<body>
+    <h1>ATIVIDADE 4 — Botão Triste</h1>
+        <button onmouseout="exibirMensagem()">
+            Botão
+        </button>
+<script>
+    function exibirMensagem(){
+        alert("ola, ser")
+    }
+</script>
+</body>
+</html>
